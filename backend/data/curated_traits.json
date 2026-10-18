@@ -1,0 +1,403 @@
+{
+  "_note": "Hand-curated, well-established gene/trait associations used for category search. Traits are polygenic and these are simplified summaries, not diagnoses.",
+  "categories": [
+    {
+      "id": "appearance",
+      "label": "Physical appearance",
+      "genes": [
+        {
+          "symbol": "HERC2",
+          "trait": "Eye color (regulates OCA2; main blue/brown eye switch)"
+        },
+        {
+          "symbol": "OCA2",
+          "trait": "Eye, hair and skin pigmentation"
+        },
+        {
+          "symbol": "MC1R",
+          "trait": "Red hair, fair skin and freckling"
+        },
+        {
+          "symbol": "SLC24A5",
+          "trait": "Skin pigmentation"
+        },
+        {
+          "symbol": "SLC45A2",
+          "trait": "Skin, hair and eye pigmentation"
+        },
+        {
+          "symbol": "TYR",
+          "trait": "Melanin production; pigmentation"
+        },
+        {
+          "symbol": "TYRP1",
+          "trait": "Pigmentation; hair color"
+        },
+        {
+          "symbol": "KITLG",
+          "trait": "Blond hair color"
+        },
+        {
+          "symbol": "IRF4",
+          "trait": "Hair color, freckling and sun sensitivity"
+        },
+        {
+          "symbol": "ASIP",
+          "trait": "Skin and hair pigmentation"
+        },
+        {
+          "symbol": "BNC2",
+          "trait": "Freckling and skin color saturation"
+        },
+        {
+          "symbol": "EDAR",
+          "trait": "Hair thickness, sweat glands and tooth shape"
+        },
+        {
+          "symbol": "TCHH",
+          "trait": "Hair curliness"
+        },
+        {
+          "symbol": "AR",
+          "trait": "Male-pattern baldness"
+        },
+        {
+          "symbol": "HMGA2",
+          "trait": "Height"
+        },
+        {
+          "symbol": "GDF5",
+          "trait": "Height and joint development"
+        },
+        {
+          "symbol": "PAX3",
+          "trait": "Facial features (nose bridge)"
+        }
+      ]
+    },
+    {
+      "id": "senses",
+      "label": "Taste, smell & senses",
+      "genes": [
+        {
+          "symbol": "TAS2R38",
+          "trait": "Bitter taste perception (PTC / broccoli bitterness)"
+        },
+        {
+          "symbol": "OR6A2",
+          "trait": "Cilantro tastes soapy"
+        },
+        {
+          "symbol": "ABCC11",
+          "trait": "Earwax type (wet/dry) and body odor"
+        },
+        {
+          "symbol": "OR7D4",
+          "trait": "Ability to smell androstenone"
+        },
+        {
+          "symbol": "OR5A1",
+          "trait": "Sensitivity to beta-ionone (floral smell)"
+        },
+        {
+          "symbol": "OPN1LW",
+          "trait": "Red color vision (red-green color blindness)"
+        },
+        {
+          "symbol": "OPN1MW",
+          "trait": "Green color vision (red-green color blindness)"
+        }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "label": "Diet & metabolism",
+      "genes": [
+        {
+          "symbol": "LCT",
+          "trait": "Lactose tolerance in adulthood"
+        },
+        {
+          "symbol": "MCM6",
+          "trait": "Contains the lactase-persistence regulatory variant"
+        },
+        {
+          "symbol": "ALDH2",
+          "trait": "Alcohol flush reaction"
+        },
+        {
+          "symbol": "ADH1B",
+          "trait": "Alcohol metabolism rate"
+        },
+        {
+          "symbol": "CYP1A2",
+          "trait": "Caffeine metabolism rate"
+        },
+        {
+          "symbol": "MTHFR",
+          "trait": "Folate metabolism"
+        },
+        {
+          "symbol": "FTO",
+          "trait": "Body mass index / obesity risk"
+        },
+        {
+          "symbol": "HFE",
+          "trait": "Iron absorption (hereditary hemochromatosis)"
+        },
+        {
+          "symbol": "AMY1A",
+          "trait": "Salivary amylase; starch digestion"
+        },
+        {
+          "symbol": "FADS1",
+          "trait": "Omega-3/omega-6 fatty acid metabolism"
+        },
+        {
+          "symbol": "FADS2",
+          "trait": "Omega-3/omega-6 fatty acid metabolism"
+        }
+      ]
+    },
+    {
+      "id": "pharmacogenomics",
+      "label": "Drug response",
+      "genes": [
+        {
+          "symbol": "CYP2D6",
+          "trait": "Metabolism of ~25% of drugs (codeine, many antidepressants)"
+        },
+        {
+          "symbol": "CYP2C19",
+          "trait": "Clopidogrel, PPIs and SSRI metabolism"
+        },
+        {
+          "symbol": "CYP2C9",
+          "trait": "Warfarin and NSAID metabolism"
+        },
+        {
+          "symbol": "VKORC1",
+          "trait": "Warfarin sensitivity"
+        },
+        {
+          "symbol": "TPMT",
+          "trait": "Thiopurine drug toxicity"
+        },
+        {
+          "symbol": "NUDT15",
+          "trait": "Thiopurine drug toxicity"
+        },
+        {
+          "symbol": "DPYD",
+          "trait": "Fluoropyrimidine (5-FU) chemotherapy toxicity"
+        },
+        {
+          "symbol": "SLCO1B1",
+          "trait": "Statin-associated muscle side effects"
+        },
+        {
+          "symbol": "UGT1A1",
+          "trait": "Irinotecan toxicity; Gilbert syndrome"
+        },
+        {
+          "symbol": "HLA-B",
+          "trait": "Severe reactions to abacavir and carbamazepine"
+        }
+      ]
+    },
+    {
+      "id": "fitness",
+      "label": "Body, sleep & fitness",
+      "genes": [
+        {
+          "symbol": "ACTN3",
+          "trait": "Fast-twitch muscle fiber function (sprint/power)"
+        },
+        {
+          "symbol": "ACE",
+          "trait": "Endurance vs. power performance"
+        },
+        {
+          "symbol": "MSTN",
+          "trait": "Muscle growth regulation (myostatin)"
+        },
+        {
+          "symbol": "BHLHE41",
+          "trait": "Naturally short sleep"
+        },
+        {
+          "symbol": "PER2",
+          "trait": "Circadian rhythm / chronotype"
+        }
+      ]
+    },
+    {
+      "id": "blood-immunity",
+      "label": "Blood & immunity",
+      "genes": [
+        {
+          "symbol": "ABO",
+          "trait": "ABO blood group"
+        },
+        {
+          "symbol": "RHD",
+          "trait": "Rh blood group"
+        },
+        {
+          "symbol": "FUT2",
+          "trait": "Secretor status; norovirus susceptibility"
+        },
+        {
+          "symbol": "CCR5",
+          "trait": "HIV co-receptor (delta32 resistance)"
+        },
+        {
+          "symbol": "DARC",
+          "trait": "Duffy blood group; malaria resistance"
+        },
+        {
+          "symbol": "ACKR1",
+          "trait": "Duffy blood group; malaria resistance"
+        },
+        {
+          "symbol": "HBB",
+          "trait": "Hemoglobin; sickle cell trait"
+        }
+      ]
+    }
+  ],
+  "snps": [
+    {
+      "rsid": "rs12913832",
+      "gene": "HERC2",
+      "effectAllele": "G",
+      "trait": "Eye color",
+      "interpretation": {
+        "2": "Your DNA here is strongly linked to blue eyes.",
+        "1": "You have one 'blue-eye' and one 'brown-eye' letter here. Brown, green or hazel eyes are most likely.",
+        "0": "Your DNA here is linked to brown eyes."
+      }
+    },
+    {
+      "rsid": "rs1426654",
+      "gene": "SLC24A5",
+      "effectAllele": "A",
+      "trait": "Skin tone",
+      "interpretation": {
+        "2": "Two copies of a variant linked to lighter skin, common in people with European ancestry.",
+        "1": "One copy of a variant linked to lighter skin.",
+        "0": "No copies of the lighter-skin variant; common in people with African or East Asian ancestry."
+      }
+    },
+    {
+      "rsid": "rs1805007",
+      "gene": "MC1R",
+      "effectAllele": "T",
+      "trait": "Red hair & freckles",
+      "interpretation": {
+        "2": "Two copies of a classic red-hair variant \u2014 red hair is likely.",
+        "1": "One copy of a red-hair variant. You may freckle easily or carry red hair in your family.",
+        "0": "You don't have this particular red-hair variant."
+      }
+    },
+    {
+      "rsid": "rs4988235",
+      "gene": "MCM6",
+      "effectAllele": "A",
+      "trait": "Digesting milk",
+      "interpretation": {
+        "2": "You can most likely digest milk as an adult.",
+        "1": "You can most likely digest milk as an adult.",
+        "0": "You may find milk harder to digest as an adult (lactose intolerance)."
+      }
+    },
+    {
+      "rsid": "rs671",
+      "gene": "ALDH2",
+      "effectAllele": "A",
+      "trait": "Alcohol flush",
+      "interpretation": {
+        "2": "Your face is very likely to turn red after drinking alcohol.",
+        "1": "Your face is likely to turn red after drinking alcohol.",
+        "0": "You probably don't get a red face from alcohol (from this gene, at least)."
+      }
+    },
+    {
+      "rsid": "rs17822931",
+      "gene": "ABCC11",
+      "effectAllele": "T",
+      "trait": "Earwax type",
+      "interpretation": {
+        "2": "You likely have dry, flaky earwax \u2014 and less underarm odor.",
+        "1": "You likely have wet, sticky earwax.",
+        "0": "You likely have wet, sticky earwax."
+      }
+    },
+    {
+      "rsid": "rs72921001",
+      "gene": "OR6A2",
+      "effectAllele": "A",
+      "trait": "Does cilantro taste like soap?",
+      "interpretation": {
+        "2": "You're more likely than most to think cilantro tastes like soap.",
+        "1": "You're a little more likely to think cilantro tastes like soap.",
+        "0": "Cilantro probably doesn't taste soapy to you."
+      }
+    },
+    {
+      "rsid": "rs762551",
+      "gene": "CYP1A2",
+      "effectAllele": "A",
+      "trait": "Caffeine",
+      "interpretation": {
+        "2": "Your body probably clears caffeine quickly.",
+        "1": "Your body probably clears caffeine more slowly than average.",
+        "0": "Your body probably clears caffeine more slowly than average."
+      }
+    },
+    {
+      "rsid": "rs1801133",
+      "gene": "MTHFR",
+      "effectAllele": "A",
+      "trait": "Folate (vitamin B9) processing",
+      "interpretation": {
+        "2": "Two copies of a common variant that slows how you process folate. Very common, and usually managed fine with a normal diet.",
+        "1": "One copy of a common variant that slightly slows how you process folate. This is very common.",
+        "0": "You process folate in the typical way."
+      }
+    },
+    {
+      "rsid": "rs9939609",
+      "gene": "FTO",
+      "effectAllele": "A",
+      "trait": "Body weight",
+      "interpretation": {
+        "2": "Two copies of a variant linked to slightly higher body weight. The effect is small \u2014 lifestyle matters far more.",
+        "1": "One copy of a variant linked to slightly higher body weight. The effect is small.",
+        "0": "No copies of this weight-linked variant."
+      }
+    },
+    {
+      "rsid": "rs1815739",
+      "gene": "ACTN3",
+      "effectAllele": "T",
+      "trait": "Sprint vs. endurance muscles",
+      "interpretation": {
+        "2": "Your muscles lack a protein found in fast 'sprint' fibers \u2014 a pattern common in endurance athletes.",
+        "1": "You have a mix \u2014 one working copy of a key fast-muscle protein.",
+        "0": "Your muscles make a protein found in fast 'sprint' fibers \u2014 a pattern common in sprinters."
+      }
+    },
+    {
+      "rsid": "rs601338",
+      "gene": "FUT2",
+      "effectAllele": "A",
+      "trait": "Stomach bug resistance",
+      "interpretation": {
+        "2": "You're likely resistant to some common strains of norovirus (the 'stomach flu').",
+        "1": "Typical \u2014 no special norovirus resistance from this gene.",
+        "0": "Typical \u2014 no special norovirus resistance from this gene."
+      }
+    }
+  ]
+}

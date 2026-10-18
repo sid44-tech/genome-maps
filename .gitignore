@@ -1,0 +1,14 @@
+backend/.venv/
+backend/data/raw/
+backend/data/genes.json
+backend/data/genome.json
+backend/data/uploads.db
+backend/data/clinvar.db
+backend/data/plain.json
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.DS_Store
+frontend/*.tsbuildinfo
+.pytest_cache/
+.claude/
